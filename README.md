@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm Rohit Pal! 👨‍💻
 
 Experienced web developer with a strong background in PHP, Laravel, MySQL, Vue.js, and Node.js.
@@ -19,9 +17,11 @@ Experienced web developer with a strong background in PHP, Laravel, MySQL, Vue.j
 ## 📫 How to reach me
 - Email: [rohitpal8866317504@gmail.com](mailto:rohitpal8866317504@gmail.com)
 
-## 📃 More about me
-- [Resume](https://rohit-resume.42web.io/Rohit%20Pal-Resume.pdf)
-- [Website](https://rohit-resume.42web.io)
+## More about me
+<p align="center">
+    <a href="https://rohit-resume.42web.io/Rohit%20Pal-Resume.pdf"> 📃 Resume</a> &nbsp; &nbsp;
+    <a href="https://rohit-resume.42web.io"> 🌐 Website</a>
+</p>
 
 ## 🛠️ Skills
 - PHP
@@ -49,5 +49,3 @@ Experienced web developer with a strong background in PHP, Laravel, MySQL, Vue.j
 ## 🌱 Interests
 - Learning new technologies
 - Open-source contributions
-
-</div>
