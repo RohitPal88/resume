@@ -36,15 +36,15 @@ Experienced web developer with a strong background in PHP, Laravel, MySQL, Vue.j
 - Git
 
 ## 🚀 Projects
-- [Project 1](#) - Description of project 1.
-- [Project 2](#) - Description of project 2.
-- [Project 3](#) - Description of project 3.
+### Harbor Town
+- **Description:** Harbor Town is a mobile app designed to track users' live locations and provide better offers near businesses. It includes an admin panel built in Vue.js for managing users, businesses, push notifications, and more.
+- **Responsibilities:** Developed frontend components using Vue.js, implemented live location tracking, integrated push notification functionality, and ensured smooth communication between the frontend and backend.
 
-## 📚 Education
-- Bachelor's in Computer Science
+### Vervet
+- **Description:** Vervet is a software solution designed to manage student trips and assist schools in managing their documents. It includes features for tracking student health, live tracking of flights, hotels, and other necessary components for a successful trip.
+- **Responsibilities:** Developed backend functionalities using PHP and Laravel, implemented trip management features, integrated document management system, and ensured data security and privacy compliance.
 
-## 💼 Experience
-- Web Developer at XYZ Company (2018 - Present)
+
 
 ## 🌱 Interests
 - Learning new technologies
